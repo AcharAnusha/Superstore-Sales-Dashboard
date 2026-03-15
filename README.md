@@ -20,7 +20,7 @@ The dashboard tracks five core metrics at a glance:
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.PNG)
 
 ## Business Insights
 * The **Furniture** category has high sales (452K) but significantly lower profit margins (10K). This suggests high overhead or aggressive discounting that needs review.
